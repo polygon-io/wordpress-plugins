@@ -11,8 +11,7 @@ Stable tag: 1.0.0
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Enrich stock market content by providing links to current price, charts, and news from <https://polygon.io>
-
+Enrich stock market content by providing links to current price, charts, and news from <https://polygon.io>.  
 
 == Description ==
 
@@ -29,6 +28,9 @@ Example:
 <p>Cruise stocks have been up this week, showing an overall trend in the travel sector.  
 Companies such as <span data-ticker-links="NCLH">Norwegian Cruise Lines</span> and 
 <span data-ticker-links="RCL">Royal Caribbean Group</span> have lead the rally.</p>
+
+Your previewed/published content will be enriched with a link for the user to see the current stock price, charts, and news for 
+the provided stock ticker such as <a href="https://polygon.io/quote/RCL" target="_blank">Royal Caribbean Group<a>.
 
 You can find the available ticker symbols using Polygon's <a href="https://polygon.io/docs/stocks/get_v3_reference_tickers">Stock Ticker API</a>
 
