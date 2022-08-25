@@ -2,11 +2,11 @@
 Author URI: https://polygon.io
 Plugin URI: https://wordpress.org/plugins/ticker-links
 Donate link: 
-Contributors: 
-Tags: 
-Requires at least: 
-Tested up to: 
-Requires PHP: 
+Contributors: Katie Adams
+Tags: stock market, stocks, finance
+Requires at least: 4.4
+Tested up to: 6.0.1
+Requires PHP: 7.0
 Stable tag: 1.0.0
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
